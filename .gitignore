@@ -1,0 +1,26 @@
+# Arduino IDE files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Build files
+build/
+*.hex
+*.elf
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.code-workspace
+.vscode/
+*.sublime-*
+
+# Temporary files
+temp/
+tmp/
